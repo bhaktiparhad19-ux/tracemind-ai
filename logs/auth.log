@@ -1,3 +1,7 @@
 Jun 14 09:00:01 server sshd[1234]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
-
 Jun 14 09:00:12 server sshd[1235]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Jun 14 09:00:25 server sshd[1236]: Failed password for invalid user admin from 192.168.1.10 port 22 ssh2
+Jun 14 09:01:10 server sshd[1237]: Accepted password for root from 192.168.1.10 port 22 ssh2
+Jun 14 09:01:30 server sudo: root : TTY=pts/0 ; COMMAND=/bin/bash
+Jun 14 09:02:15 server sshd[1238]: Failed password for user john from 10.10.10.5 port 22 ssh2
+Jun 14 09:03:00 server sshd[1239]: Accepted password for john from 10.10.10.5 port 22 ssh2
